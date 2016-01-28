@@ -1,0 +1,50 @@
+body.start {
+  background: #fff;
+}
+
+body.cold {
+  background: blue;
+  color: #fff;
+}
+
+body.warm {
+  background: orange;
+  color: #000;
+}
+
+body.hot {
+  background: red;
+  color: green;
+}
+
+h1 {
+  font-size: 34px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  display: block;
+  clear: both;
+  float: left;
+  font-size: 22px;
+  margin-top: 30px;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  float: left;
+  font-style: italic;
+  padding-left: 10px;
+}
+
+#changeTemp {
+  width: 200px;
+  height: 35px;
+  margin-left: 30px;
+  float: left;
+}
+
+.colorRed {
+  color: red;
+}
